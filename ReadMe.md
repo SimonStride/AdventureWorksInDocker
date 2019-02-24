@@ -9,6 +9,15 @@ The purpose is to provide a consistent, reusable demo environment leveraging doc
 People following along with TSQL demos have some guarantee of like-for-like setup, irrespective of OS, and without needing to click through SQL Server's installers.
 
 ---
+
+## Licensing
+
+The work contained in this repo is freely available to use for non commercial purposes, including community training, personal experimentation. Please provide a link back to this repository and credit to myself.
+
+If this work has helped you or your team please leave a comment or let me know on twitter @sqlstride.
+
+---
+
 ## Release Notes
 
 Date | Author | Notes
