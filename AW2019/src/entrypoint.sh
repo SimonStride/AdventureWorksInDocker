@@ -1,0 +1,1 @@
+./attach-databases.sh & /opt/mssql/bin/sqlservr

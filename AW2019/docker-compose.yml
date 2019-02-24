@@ -1,0 +1,14 @@
+version: "3"
+services:
+    adventureworks2019:
+        build: ./src
+        environment:
+            SA_PASSWORD: "AdventureWorks1234"
+            ACCEPT_EULA: "Y"
+            MSSQL_AGENT_ENABLED: "true"
+        ports:
+            - "2019:1433/tcp"
+        container_name: adventureworks2019
+        hostname: adventureworks2019
+        stdin_open: true
+        tty: true
