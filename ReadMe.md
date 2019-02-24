@@ -22,7 +22,9 @@ If this work has helped you or your team please leave a comment or let me know o
 
 Date | Author | Notes
 --|--|--
-01 Dec 2018 | Simon Stride | Initial Version, covering AdventureWorks 2012, 2014, 2016, 2017 and 2016_EXT
+01 Dec 2018 | Simon Stride | Initial Version, covering AdventureWorks 2012, 2014, 2016, 2017
+05 Dec 2018 | Simon Stride | Added a split-out version of 2017 so that it can be spun up independently
+24 Feb 2019 | Simon Stride | Added a 2019 version using the 2017 backup file, added tags to the 2017 and 2019 SQL Server versions
 
 
 ---
