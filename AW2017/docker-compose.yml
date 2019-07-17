@@ -6,6 +6,8 @@ services:
             SA_PASSWORD: "AdventureWorks1234"
             ACCEPT_EULA: "Y"
             MSSQL_AGENT_ENABLED: "true"
+            MSSQL_COLLATION: "Latin1_General_CI_AS"
+            MSSQL_PID: "Developer"
         ports:
             - "2017:1433/tcp"
         container_name: adventureworks2017
